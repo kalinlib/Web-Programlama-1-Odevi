@@ -5,3 +5,8 @@ Tasarlayan Adı: Burak Kalınlı - Öğrenci
 #Kullanılan Araçlar
 HTML5
 CSS3
+#Kullanılan Yazılımlar
+VSCODE
+#Kullanılan Yöntemler
+Yerel Bilgisayar Sunuculu İndexleme
+Tasarım Sistemleri
