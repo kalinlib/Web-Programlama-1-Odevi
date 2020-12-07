@@ -2,3 +2,6 @@
 Twitter Giriş Sayfasının Frontend Tasarımının Birebir Yapılması
 Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü
 Tasarlayan Adı: Burak Kalınlı - Öğrenci
+#Kullanılan Araçlar
+HTML5
+CSS3
